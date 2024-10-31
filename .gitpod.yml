@@ -1,4 +1,4 @@
-image: gitpod/workspace-node-lts
+image: gitpod/workspace-node-22
 
 ports:
   - port: 3000
